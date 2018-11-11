@@ -48,7 +48,6 @@ if($_GET){
 </head>
 
 <body>
-
     <div class="container mt-5">
         <div class="row">
             <!--Cajas de Colores Precargadas-->
